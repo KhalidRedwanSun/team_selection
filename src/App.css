@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+
+.full-container{
+  display: flex;
+}
+
+
+.player-info{
+  width:70%;
+  border-right: 5px solid white;
+  background-color:rgb(32, 206, 218);
+}
+
+
+
+
+.selected-info{
+  color: rgb(32, 206, 218);
+  width: 30%;
+  background-color:black;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

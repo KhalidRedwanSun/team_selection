@@ -1,0 +1,31 @@
+.IndividualInfo{
+    border: 0px solid rgb(32, 206, 218);
+    margin-left:200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    background-color: black ;
+    color: rgb(32, 206, 218);
+    border-radius: 10px;
+}
+
+
+.IndividualInfo img{
+    height: 150px;
+}
+
+
+.IndividualInfo button{
+    width: 150px;
+    padding:5px;
+    border: 0px solid rgb(32, 206, 218);
+    cursor: pointer;
+}
+
+
+/* .IndividualInfo button:hover{
+    background-color:rgb(32, 206, 218);
+} */
+
+.icon{
+    margin-right: 5px;
+}
